@@ -1,0 +1,38 @@
+body { background-color: #000033; 
+        background-image: url("primediagonal.png")
+       ;color:#003300;
+       font-family:Arial;
+       font-family:Arial; }
+header   {padding: 0px;
+ background-color: #ffffcc; 
+       color:#48751A; 
+       width: 80%; min-width: 700px; 
+ max-width: 960px
+       }
+h2 {
+       color:#003366;
+        }
+h3   { padding-top: 10px;
+       color:#006600;
+        }
+nav  {font-weight: bold;
+      font-size: 1.2em }
+dd {font-style: italic; font-size: .9em; line-height: 200%}
+.contact{font-weight:bold;
+        font-size:.9em;
+        font-family:Times}
+#wrapper{background-color: #ffffcc;
+ width: 80%; min-width: 700px; 
+ max-width: 960px
+ ; padding-right: 0px; padding-top:0px;
+ padding-bottom: 20px; padding-left: 30px;
+ border-style: ridge;
+ border-size: 1px solid; border-color: #00332B;
+ border-radius: 10px;
+ box-shadow: inset -3px -3px 3px 3px #00332B;
+
+ margin-right: auto;
+margin-left: auto}
+footer {font-style:italic;
+  font-size:.60em}
+img {border:0 ;}

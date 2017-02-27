@@ -1,0 +1,24 @@
+body { background-color: #ffffcc; 
+       color:#003300
+       font-family:Arial;
+       font-family:Arial; }
+header   { background-color: #ffffcc; 
+       color:#48751A; 
+       }
+h2 { background-color:#ffffcc; 
+       color:#003366;
+        }
+h3   { background-color:#ffffcc; 
+       color:#006600;
+        }
+nav  {font-weight: bold;
+      font-size: 1.2em }
+dd {font-style: italic; font-size: .9em; line-height: 200%}
+.contact{font-weight:bold;
+        font-size:.9em;
+        font-family:Times}
+#wrapper{width: 80%; margin-right: auto;
+margin-left: auto}
+footer {font-style:italic;
+  font-size:.60em}
+  

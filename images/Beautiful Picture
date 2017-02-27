@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<title>Image Upload</title>
+<meta charset="utf-8">
+</head>
+<p>Hello World<br> My name is Amber</p>
+<img src="../images/304774_352419108167574_1494852711_n.jpg"
+height="150" width="200">
+<img src="http://paulinecreeden.com/wp-content/uploads/2013/12/clear-boarder.png"
+heigh="10" width="50">
+<hr>
+</body>
+</html>
